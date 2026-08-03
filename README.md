@@ -1,21 +1,21 @@
-# 🚀 AWS S3 Static Website Hosting with Root Domain Configuration
+# AWS S3 Static Website Hosting with Root Domain Configuration
 
-## 📖 Project Overview
+## Project Overview
 
 This project demonstrates how to host a static website on **Amazon S3** and map a **custom root domain** using **Amazon Route 53**. The website is publicly accessible through the custom domain after configuring DNS records and enabling static website hosting.
 
 ---
 
-## 🏗️ Architecture Diagram
+## Architecture Diagram
 
 > **Architecture Diagram**
 
-*(<img width="1536" height="1024" alt="AWS S3 + Route 53 Static Website Architecture" src="https://github.com/user-attachments/assets/01c6d3bc-99f2-4784-8c40-5f7a68f47055" />
-)*
+*<img width="1536" height="1024" alt="AWS S3 + Route 53 Static Website Architecture" src="https://github.com/user-attachments/assets/01c6d3bc-99f2-4784-8c40-5f7a68f47055" />
+*
 
 ---
 
-## ✨ Project Features
+## Project Features
 
 * Hosted a static website using Amazon S3
 * Created an S3 bucket using the root domain name
@@ -41,7 +41,7 @@ This project demonstrates how to host a static website on **Amazon S3** and map 
 
 ---
 
-## 📄 Project Documentation
+## Project Documentation
 
 The complete implementation guide, configuration steps, and screenshots are available in the project PDF.
 
@@ -51,13 +51,13 @@ The complete implementation guide, configuration steps, and screenshots are avai
 
 ---
 
-## 🎯 Project Outcome
+## Project Outcome
 
 Successfully deployed a static website on **Amazon S3** and made it accessible through a **custom root domain** using **Amazon Route 53**.
 
 ---
 
-## 👩‍💻 Author
+## Author
 
 **Pooja Daingade**
 
