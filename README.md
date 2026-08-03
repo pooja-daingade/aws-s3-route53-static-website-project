@@ -10,8 +10,8 @@ This project demonstrates how to host a static website on **Amazon S3** and map 
 
 > **Architecture Diagram**
 
-*<img width="1536" height="1024" alt="AWS S3 + Route 53 Static Website Architecture" src="https://github.com/user-attachments/assets/01c6d3bc-99f2-4784-8c40-5f7a68f47055" />
-*
+<img width="1536" height="1024" alt="AWS S3 + Route 53 Static Website Architecture" src="https://github.com/user-attachments/assets/01c6d3bc-99f2-4784-8c40-5f7a68f47055" />
+
 
 ---
 
